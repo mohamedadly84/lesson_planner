@@ -1,0 +1,26 @@
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+build/
+*.iml
+.android/
+.idea/
+*.key
+*.keystore
+*.jks
+*.gradle/
+local.properties
+Generated.xcconfig
+.xcodeproj/
+!.gitignore
+
+# Android
+*.apk
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db
